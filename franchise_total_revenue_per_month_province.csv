@@ -1,0 +1,409 @@
+Province,month,revenue
+Bali,1,788048452.56
+Bali,2,715837001.18
+Bali,3,822398917.4399999
+Bali,4,832432765.25
+Bali,5,835766681.62
+Bali,6,871842215.79
+Bali,7,769640941.67
+Bali,8,830333241.2
+Bali,9,933521678.85
+Bali,10,1059009406.52
+Bali,11,993820322.76
+Bali,12,1055785927.52
+Banten,1,2132866540.43
+Banten,2,2016694575.82
+Banten,3,2338294472.1
+Banten,4,2247814094.81
+Banten,5,2166622256.1
+Banten,6,2269600203.04
+Banten,7,2047138778.03
+Banten,8,2253447991.46
+Banten,9,2337706995.7
+Banten,10,2520041636.27
+Banten,11,2436947721.76
+Banten,12,2538393098.26
+Bengkulu,1,313314126.25
+Bengkulu,2,295978365.26
+Bengkulu,3,341035966.8
+Bengkulu,4,321576770.18
+Bengkulu,5,294424820.76
+Bengkulu,6,307950937.81
+Bengkulu,7,324999113.58
+Bengkulu,8,298320530.6
+Bengkulu,9,295495592.78000003
+Bengkulu,10,305951034.25
+Bengkulu,11,288869380.09
+Bengkulu,12,313271311.31
+DI Yogyakarta,1,705517383.92
+DI Yogyakarta,2,655661290.57
+DI Yogyakarta,3,783457578.96
+DI Yogyakarta,4,764492639.33
+DI Yogyakarta,5,805434409.57
+DI Yogyakarta,6,807760898.91
+DI Yogyakarta,7,663152094.6
+DI Yogyakarta,8,761366694.59
+DI Yogyakarta,9,832495195.75
+DI Yogyakarta,10,921717085.11
+DI Yogyakarta,11,871685373.84
+DI Yogyakarta,12,897670199.25
+DKI Jakarta,1,2200292367.84
+DKI Jakarta,2,2093206581.26
+DKI Jakarta,3,2461117859.19
+DKI Jakarta,4,2464164152.58
+DKI Jakarta,5,2407155218.86
+DKI Jakarta,6,2462937374.7
+DKI Jakarta,7,2002657369.98
+DKI Jakarta,8,2371669488.94
+DKI Jakarta,9,2613729605.49
+DKI Jakarta,10,2790132919.27
+DKI Jakarta,11,2869250838.92
+DKI Jakarta,12,3029884145.27
+Gorontalo,1,148516997.8
+Gorontalo,2,146851442.24
+Gorontalo,3,170233451.91
+Gorontalo,4,191425075.05
+Gorontalo,5,189665527.76
+Gorontalo,6,185648385.36
+Gorontalo,7,184657910.15
+Gorontalo,8,175607361.83
+Gorontalo,9,183407495.65
+Gorontalo,10,203001219.06
+Gorontalo,11,192122810.22
+Gorontalo,12,206346098.66
+Jambi,1,430202682.42
+Jambi,2,424612336.01
+Jambi,3,529264982.84
+Jambi,4,520167293.35
+Jambi,5,493302546.46
+Jambi,6,556131572.6899999
+Jambi,7,599168356.42
+Jambi,8,582200422.46
+Jambi,9,578851787.43
+Jambi,10,633730805.44
+Jambi,11,630897447.83
+Jambi,12,642790317.5600001
+Jawa Barat,1,6861409864.25
+Jawa Barat,2,6419541758.35
+Jawa Barat,3,7546686218.12
+Jawa Barat,4,7470659099.38
+Jawa Barat,5,7602658883.66
+Jawa Barat,6,7436559629.95
+Jawa Barat,7,6817045462.69
+Jawa Barat,8,7613854376.27
+Jawa Barat,9,8011453670.7
+Jawa Barat,10,8473275775.09
+Jawa Barat,11,8207106824.44
+Jawa Barat,12,8496814562.65
+Jawa Tengah,1,5427116734.06
+Jawa Tengah,2,5074315177.02
+Jawa Tengah,3,6279269363.09
+Jawa Tengah,4,6227516954.15
+Jawa Tengah,5,6609562737.68
+Jawa Tengah,6,6252217757.59
+Jawa Tengah,7,5829250988.89
+Jawa Tengah,8,6459955084.75
+Jawa Tengah,9,6658872308.21
+Jawa Tengah,10,6928621202.86
+Jawa Tengah,11,6601458355.77
+Jawa Tengah,12,6781567079.77
+Jawa Timur,1,5996372404.24
+Jawa Timur,2,5667832287.14
+Jawa Timur,3,6761997214.64
+Jawa Timur,4,6794555556.22
+Jawa Timur,5,6984409848.74
+Jawa Timur,6,6998610929.27
+Jawa Timur,7,6242447649.93
+Jawa Timur,8,6874129600.31
+Jawa Timur,9,7209990768.96
+Jawa Timur,10,7686207069.33
+Jawa Timur,11,7241503049.8
+Jawa Timur,12,7375321126.75
+Kalimantan Barat,1,535449839.59
+Kalimantan Barat,2,524145022.61
+Kalimantan Barat,3,564976533.95
+Kalimantan Barat,4,571556522.57
+Kalimantan Barat,5,566115823.56
+Kalimantan Barat,6,553399886.0
+Kalimantan Barat,7,566479198.64
+Kalimantan Barat,8,594169748.59
+Kalimantan Barat,9,558196899.31
+Kalimantan Barat,10,573703505.79
+Kalimantan Barat,11,581796914.11
+Kalimantan Barat,12,601586654.16
+Kalimantan Selatan,1,629775639.81
+Kalimantan Selatan,2,621594163.99
+Kalimantan Selatan,3,733185342.17
+Kalimantan Selatan,4,693381118.4
+Kalimantan Selatan,5,731808998.95
+Kalimantan Selatan,6,731051861.92
+Kalimantan Selatan,7,760989345.37
+Kalimantan Selatan,8,702574248.14
+Kalimantan Selatan,9,681089231.68
+Kalimantan Selatan,10,763468284.21
+Kalimantan Selatan,11,767792572.2
+Kalimantan Selatan,12,758281672.24
+Kalimantan Tengah,1,350439257.57
+Kalimantan Tengah,2,304742103.67
+Kalimantan Tengah,3,368927067.96999997
+Kalimantan Tengah,4,350646726.44
+Kalimantan Tengah,5,353087371.57
+Kalimantan Tengah,6,355799152.59
+Kalimantan Tengah,7,332402183.33
+Kalimantan Tengah,8,329946030.26
+Kalimantan Tengah,9,328092428.59
+Kalimantan Tengah,10,389982997.66
+Kalimantan Tengah,11,402385298.43
+Kalimantan Tengah,12,403599651.83
+Kalimantan Timur,1,567776403.74
+Kalimantan Timur,2,505905139.19
+Kalimantan Timur,3,604894941.39
+Kalimantan Timur,4,602233436.55
+Kalimantan Timur,5,642518428.36
+Kalimantan Timur,6,636513540.57
+Kalimantan Timur,7,580728310.58
+Kalimantan Timur,8,588799878.47
+Kalimantan Timur,9,639034247.52
+Kalimantan Timur,10,691962614.2
+Kalimantan Timur,11,686900231.67
+Kalimantan Timur,12,706935422.64
+Kalimantan Utara,1,44054354.7
+Kalimantan Utara,2,36403969.480000004
+Kalimantan Utara,3,43950422.51
+Kalimantan Utara,4,44225853.31
+Kalimantan Utara,5,42757824.22
+Kalimantan Utara,6,41160134.07
+Kalimantan Utara,7,40317247.96
+Kalimantan Utara,8,37758724.23
+Kalimantan Utara,9,39006818.98
+Kalimantan Utara,10,38755633.39
+Kalimantan Utara,11,41467459.89
+Kalimantan Utara,12,45889343.38
+Kepulauan Bangka Belitung,1,308867183.88
+Kepulauan Bangka Belitung,2,310706972.36
+Kepulauan Bangka Belitung,3,378905687.41
+Kepulauan Bangka Belitung,4,375401936.93
+Kepulauan Bangka Belitung,5,335066543.23
+Kepulauan Bangka Belitung,6,340669076.27
+Kepulauan Bangka Belitung,7,376284952.54
+Kepulauan Bangka Belitung,8,389396353.45
+Kepulauan Bangka Belitung,9,438885680.99
+Kepulauan Bangka Belitung,10,475581903.27
+Kepulauan Bangka Belitung,11,471435523.55
+Kepulauan Bangka Belitung,12,437058826.59
+Kepulauan Riau,1,210565688.31
+Kepulauan Riau,2,201141375.73
+Kepulauan Riau,3,254203099.18
+Kepulauan Riau,4,249334164.44
+Kepulauan Riau,5,226349899.71
+Kepulauan Riau,6,208498688.65
+Kepulauan Riau,7,222815116.6
+Kepulauan Riau,8,291828346.35
+Kepulauan Riau,9,317484772.95
+Kepulauan Riau,10,332523000.65
+Kepulauan Riau,11,314514708.79
+Kepulauan Riau,12,330493519.08
+Lampung,1,1149051702.17
+Lampung,2,1045863344.99
+Lampung,3,1204937724.64
+Lampung,4,1160884919.59
+Lampung,5,1100778944.47
+Lampung,6,1228893908.86
+Lampung,7,1229630624.44
+Lampung,8,1272227478.39
+Lampung,9,1355044933.17
+Lampung,10,1381179617.82
+Lampung,11,1385540803.49
+Lampung,12,1361787105.33
+Maluku,1,85157500.82
+Maluku,2,80961052.97
+Maluku,3,101715231.91
+Maluku,4,101264784.67999999
+Maluku,5,105979954.53999999
+Maluku,6,107092916.2
+Maluku,7,84275676.4
+Maluku,8,91037023.05
+Maluku,9,91811230.24
+Maluku,10,103660448.09
+Maluku,11,106601743.65
+Maluku,12,105085337.18
+Maluku Utara,1,47429471.91
+Maluku Utara,2,57790553.38
+Maluku Utara,3,64514596.39
+Maluku Utara,4,63174285.6
+Maluku Utara,5,64954964.51
+Maluku Utara,6,63210318.67
+Maluku Utara,7,54381769.38
+Maluku Utara,8,59126758.22
+Maluku Utara,9,57058540.36
+Maluku Utara,10,59916109.17
+Maluku Utara,11,60834889.800000004
+Maluku Utara,12,52878149.54
+Nanggroe Aceh Darussalam,1,611747485.22
+Nanggroe Aceh Darussalam,2,584452930.36
+Nanggroe Aceh Darussalam,3,709280693.28
+Nanggroe Aceh Darussalam,4,680038621.1
+Nanggroe Aceh Darussalam,5,682065173.62
+Nanggroe Aceh Darussalam,6,707548625.88
+Nanggroe Aceh Darussalam,7,740139665.45
+Nanggroe Aceh Darussalam,8,777522653.5
+Nanggroe Aceh Darussalam,9,800532587.3
+Nanggroe Aceh Darussalam,10,836204349.12
+Nanggroe Aceh Darussalam,11,825555071.67
+Nanggroe Aceh Darussalam,12,805135967.34
+Nusa Tenggara Barat,1,416379597.12
+Nusa Tenggara Barat,2,370375893.14
+Nusa Tenggara Barat,3,465749347.4
+Nusa Tenggara Barat,4,484981127.76
+Nusa Tenggara Barat,5,503368874.09000003
+Nusa Tenggara Barat,6,511965224.43
+Nusa Tenggara Barat,7,484204740.93
+Nusa Tenggara Barat,8,490445069.21
+Nusa Tenggara Barat,9,505669117.23
+Nusa Tenggara Barat,10,528114761.3
+Nusa Tenggara Barat,11,482702318.5
+Nusa Tenggara Barat,12,462676784.65
+Nusa Tenggara Timur,1,325537825.05
+Nusa Tenggara Timur,2,267971016.49
+Nusa Tenggara Timur,3,324558806.15999997
+Nusa Tenggara Timur,4,304323257.66
+Nusa Tenggara Timur,5,338759883.46
+Nusa Tenggara Timur,6,358116671.14
+Nusa Tenggara Timur,7,325721126.61
+Nusa Tenggara Timur,8,339153684.83
+Nusa Tenggara Timur,9,346389729.14
+Nusa Tenggara Timur,10,327332424.82
+Nusa Tenggara Timur,11,301398893.82
+Nusa Tenggara Timur,12,276573485.72
+Papua,1,123627518.01
+Papua,2,113792538.14999999
+Papua,3,139434834.23
+Papua,4,133666864.19
+Papua,5,139902747.18
+Papua,6,150430782.23
+Papua,7,150053650.1
+Papua,8,156508014.39000002
+Papua,9,170909067.8
+Papua,10,180274354.45
+Papua,11,179632064.82
+Papua,12,207302982.17
+Papua Barat,1,106217767.69
+Papua Barat,2,111275760.98
+Papua Barat,3,126453280.81
+Papua Barat,4,108689288.78999999
+Papua Barat,5,112977248.9
+Papua Barat,6,118394998.98
+Papua Barat,7,106726371.94
+Papua Barat,8,111869735.74
+Papua Barat,9,120058439.7
+Papua Barat,10,128259288.29
+Papua Barat,11,130979264.1
+Papua Barat,12,132615373.9
+Riau,1,1304987112.62
+Riau,2,1224774524.25
+Riau,3,1385843206.64
+Riau,4,1316330863.29
+Riau,5,1213345213.54
+Riau,6,1327126683.29
+Riau,7,1388445162.6
+Riau,8,1456981399.62
+Riau,9,1502918861.99
+Riau,10,1495601431.71
+Riau,11,1524199466.51
+Riau,12,1596354023.34
+Sulawesi Barat,1,134652584.87
+Sulawesi Barat,2,104733630.91
+Sulawesi Barat,3,124828234.2
+Sulawesi Barat,4,125650090.8
+Sulawesi Barat,5,115019969.26
+Sulawesi Barat,6,109547179.67999999
+Sulawesi Barat,7,112028439.97
+Sulawesi Barat,8,130880331.33
+Sulawesi Barat,9,129143641.62
+Sulawesi Barat,10,148227563.42000002
+Sulawesi Barat,11,152808140.59
+Sulawesi Barat,12,168353573.48000002
+Sulawesi Selatan,1,1116272027.5
+Sulawesi Selatan,2,1102539026.57
+Sulawesi Selatan,3,1342596344.75
+Sulawesi Selatan,4,1369913335.79
+Sulawesi Selatan,5,1375965174.35
+Sulawesi Selatan,6,1357586948.1
+Sulawesi Selatan,7,1305311763.6399999
+Sulawesi Selatan,8,1332068306.7
+Sulawesi Selatan,9,1407858622.36
+Sulawesi Selatan,10,1521077690.76
+Sulawesi Selatan,11,1451686719.88
+Sulawesi Selatan,12,1470595884.04
+Sulawesi Tengah,1,357781235.88
+Sulawesi Tengah,2,342918260.29
+Sulawesi Tengah,3,411340777.45
+Sulawesi Tengah,4,403405938.46
+Sulawesi Tengah,5,411565979.45
+Sulawesi Tengah,6,426185952.51
+Sulawesi Tengah,7,439104172.58
+Sulawesi Tengah,8,426059603.78
+Sulawesi Tengah,9,456323770.32
+Sulawesi Tengah,10,506387157.11
+Sulawesi Tengah,11,505361809.23
+Sulawesi Tengah,12,518845340.69
+Sulawesi Tenggara,1,236862326.21
+Sulawesi Tenggara,2,225833300.81
+Sulawesi Tenggara,3,267537999.36
+Sulawesi Tenggara,4,232401061.17
+Sulawesi Tenggara,5,219282397.13
+Sulawesi Tenggara,6,223224738.73
+Sulawesi Tenggara,7,202773565.32
+Sulawesi Tenggara,8,229528344.11
+Sulawesi Tenggara,9,223136506.14000002
+Sulawesi Tenggara,10,261415490.88
+Sulawesi Tenggara,11,277371373.51
+Sulawesi Tenggara,12,254385493.70000002
+Sulawesi Utara,1,272758009.69
+Sulawesi Utara,2,313485472.46
+Sulawesi Utara,3,392879891.5
+Sulawesi Utara,4,398773008.45
+Sulawesi Utara,5,392206972.18
+Sulawesi Utara,6,405309596.91
+Sulawesi Utara,7,390129162.44
+Sulawesi Utara,8,383912737.16
+Sulawesi Utara,9,387883813.08
+Sulawesi Utara,10,415256449.39
+Sulawesi Utara,11,422114072.4
+Sulawesi Utara,12,445785167.8
+Sumatera Barat,1,830320825.83
+Sumatera Barat,2,823571289.93
+Sumatera Barat,3,895766812.37
+Sumatera Barat,4,847485256.47
+Sumatera Barat,5,864004772.0600001
+Sumatera Barat,6,866069281.5
+Sumatera Barat,7,839118582.4
+Sumatera Barat,8,859266907.05
+Sumatera Barat,9,861442321.02
+Sumatera Barat,10,938606666.96
+Sumatera Barat,11,953857456.38
+Sumatera Barat,12,985969598.11
+Sumatera Selatan,1,1057509687.07
+Sumatera Selatan,2,1003668276.83
+Sumatera Selatan,3,1133607485.25
+Sumatera Selatan,4,1093361179.31
+Sumatera Selatan,5,1052309702.89
+Sumatera Selatan,6,1125934002.75
+Sumatera Selatan,7,1116851326.8
+Sumatera Selatan,8,1094086202.97
+Sumatera Selatan,9,1174466600.53
+Sumatera Selatan,10,1244743485.42
+Sumatera Selatan,11,1314502700.62
+Sumatera Selatan,12,1343188686.04
+Sumatera Utara,1,2211470073.45
+Sumatera Utara,2,2235337100.12
+Sumatera Utara,3,2577790572.72
+Sumatera Utara,4,2416869247.84
+Sumatera Utara,5,2372467575.21
+Sumatera Utara,6,2425904342.04
+Sumatera Utara,7,2462333729.25
+Sumatera Utara,8,2491403832.5
+Sumatera Utara,9,2569710860.17
+Sumatera Utara,10,2699973235.17
+Sumatera Utara,11,2669013157.28
+Sumatera Utara,12,2782593085.7
